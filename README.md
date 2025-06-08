@@ -37,7 +37,9 @@ Features:
 Process Flow:
 
 Secret data(in text)---->Encoding---->Stego image---->Decoding
+                          
                             |                            |
+                       
                        original image                Secret data
 
 Compiling multiple files: gcc *.c
